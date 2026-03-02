@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Location:** Main Building D-404
+**Location:** Main Building B-303
 
-**Date**: 3rd&4th class, Mondays and 3rd&4th class, Thursdays, 02/17 - 04/17, 2025. 
+**Date**: 3rd&4th class, Tuesdays and 3rd&4th class, Thursdays, 03/03 - 04/23, 2026. 
 

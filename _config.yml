@@ -4,9 +4,9 @@ course_description: "
 This course is to present the basic concepts and theories in modern statistics
 for undergraduate students at School of Management, Xi'an Jiaotong University.
 "
-course_semester: "Spring 2025"
+course_semester: "Spring 2026"
 
-baseurl: "/stats-spring-2025" # the subpath of your site, e.g. /blog/
+baseurl: "/stats-spring-2026" # the subpath of your site, e.g. /blog/
 url: "http://som-course.github.io/" # the base hostname & protocol for your site
 
 schoolname: "SOM-XJTU"
