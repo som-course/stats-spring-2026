@@ -10,7 +10,7 @@ solutions:
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2025-03-10T10:00:00+08:00
+    date: 2026-03-10T10:00:00+08:00
     description: 'Master LaTeX Template for Course Notes.'
 ---
 This is a simple assignment. 
