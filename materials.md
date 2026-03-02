@@ -31,5 +31,6 @@ permalink: /materials/
 - [CTeX](http://www.ctex.org/HomePage)
 - [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [Use Overleaf](https://www.overleaf.com/learn/how-to/Creating_a_document_in_Overleaf)
+- [Prism by OpenAI](https://prism.openai.com/)
 - [TeXStudio](https://www.texstudio.org/): Suggested IDE
 
