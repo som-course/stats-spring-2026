@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-05T8:00:00+8:00
+date: 2026-03-05T8:00:00+8:00
 title: Lecture 2 Probability and Random Variable
 tldr: probability & random variable
 thumbnail: /_images/pp/probability.jpg
