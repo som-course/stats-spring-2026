@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-03-26T8:00:00+8:00
-title: Lecture 8 Convergence of Random Variable III
+title: Lecture 8 Convergence of Random Variable II
 tldr: Convergence in Probability, Moment, Distrbution
 thumbnail: /_images/pp/convergence.png
 links: 
