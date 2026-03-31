@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-31T8:00:00+8:00
+date: 2026-03-31T8:00:00+8:00
 title: Lecture 9 Statistical Inference
 tldr: Inference, Learning
 thumbnail: /_images/pp/statistical_Inference.png
