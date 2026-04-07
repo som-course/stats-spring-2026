@@ -5,7 +5,7 @@ title: Lecture 10 Parametric Inference
 tldr: MLE, Moment
 thumbnail: /_images/pp/pi.jpg
 links: 
-    - url: /static_files/Notes/lecture9.pdf
+    - url: /static_files/Notes/lecture10.pdf
       name: notes
 
 ---
