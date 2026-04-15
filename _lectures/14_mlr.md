@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-16T8:00:00+8:00
+date: 2026-04-16T8:00:00+8:00
 title: Lecture 14 Multiple Linear Regression
 tldr: MLP
 thumbnail: /_images/pp/mlr.png
