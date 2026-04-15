@@ -5,7 +5,7 @@ title: Lecture 11 Parametric Inference II
 tldr: MLE
 thumbnail: /_images/pp/pi.jpg
 links: 
-    - url: /static_files/Notes/lecture11.pdf
+    - url: /static_files/Notes/lecture11wo.pdf
       name: notes
 
 ---
