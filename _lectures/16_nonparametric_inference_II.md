@@ -5,7 +5,7 @@ title: Lecture 16 Nonparametric Inference II
 tldr: kernel density estimation, bootstrap
 thumbnail: /_images/pp/bs.jpg
 links: 
-    - url: /static_files/Notes/lecture14.pdf
+    - url: /static_files/Notes/lecture16.pdf
       name: notes
 
 ---
